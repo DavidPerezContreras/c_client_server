@@ -1,4 +1,4 @@
-# 📐  C Hello World
+# 📐  C Client-Server example
 
 Creates 2 executables. server.exe is a server and outputs whatever the client sends to it. client.exe is a client that sends "Hello world\naaaaaa"... The server stops listening when it reaches \n.
 
